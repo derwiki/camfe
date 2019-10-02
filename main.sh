@@ -2,6 +2,6 @@
 
 while true
 do
-  bash capture-upload.sh &
+  /bin/bash /home/pi/src/camfe/capture-upload.sh &
   sleep 60
 done
